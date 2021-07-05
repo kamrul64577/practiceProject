@@ -34,10 +34,11 @@ p{
     display: flex;
     
 }
-.nav ul li{
+.nav ul li a{
     padding: 0 10px;
     color: white;
     font-size: 20px;
+    text-decoration: none;
     
 }
 .header{
